@@ -1,7 +1,7 @@
 # Dual Channel Multifunction Signal Processing Application
 
-[![Project Status: Prototype Completed](https://img.shields.io/badge/Status-Prototype_Completed-green)]
-[![Category: Hardware](https://img.shields.io/badge/Category-Biomedical_Device-blue)]
+[![Project Status: Prototype Completed](https://img.shields.io/badge/Status-Prototype_Completed-green)]()
+[![Category: Hardware](https://img.shields.io/badge/Category-Biomedical_Device-blue)]()
 
 ## Project Overview
 This project is a robust desktop application architected using **PySide6** for the real-time visualization and manipulation of biomedical and audio signals. It leverages **NumPy** and **SciPy** to perform high-speed Fast Fourier Transforms (FFT) and digital filtering with a sampling rate tolerance of 1-0.1 Hz. 
